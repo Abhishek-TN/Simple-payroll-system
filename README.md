@@ -25,3 +25,4 @@ Admin Access
 email: admin
 password: admin123
 ----------------------------------------------------
+#Output images
