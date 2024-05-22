@@ -1,4 +1,4 @@
-#Simple payroll system
+## Simple payroll system
 
 1.XAMPP
 
@@ -25,4 +25,7 @@ Admin Access
 email: admin
 password: admin123
 ----------------------------------------------------
-#Output images
+# Output images
+![Output images]("C:\Users\SaiAnkith\Pictures\Screenshots\Screenshot (566).png")
+![Output images]("C:\Users\SaiAnkith\Pictures\Screenshots\Screenshot (567).png")
+![Output images]("C:\Users\SaiAnkith\Pictures\Screenshots\Screenshot (568).png")
